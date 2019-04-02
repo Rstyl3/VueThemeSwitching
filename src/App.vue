@@ -111,4 +111,7 @@ button {
 .btn-wrapper {
   display: flex;
 }
+.btn-wrapper button{
+  margin: 0 8px;
+}
 </style>
