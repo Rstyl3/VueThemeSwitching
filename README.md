@@ -1,5 +1,5 @@
 # theme-vue
-
+Vue project using css variables to create different themes.
 ## Project setup
 ```
 npm install
